@@ -1,0 +1,6 @@
+---
+aptget_update: True
+aptget_update_cache_valid_time: 3600
+
+aptget_upgrade: False
+aptget_distupgrade: False
