@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: slaarti
+  description: Simple ansible role to manage apt-get updates and upgrades.
+  license: Unlicense
+  min_ansible_version: 1.2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  categories:
+  - system
